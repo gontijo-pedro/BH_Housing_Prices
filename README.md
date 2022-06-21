@@ -1,7 +1,10 @@
 # Data analysis
 - Document here the project: BH_Housing_Prices
-- Description: Project Description
-- Data Source:
+- Description: This is a Data Science project that aims on evaluating the price range
+and the correleation of features of several available houses in Belo Horizonte/Brazil.
+The main goal of this project is to get a glimpse of good investments opportunities
+within the city's real estate market.
+- Data Source: Kaggle
 - Type of analysis:
 
 Please document the project the better you can.
